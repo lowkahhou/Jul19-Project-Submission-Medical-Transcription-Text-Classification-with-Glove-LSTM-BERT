@@ -1,5 +1,5 @@
 4-5 Jul 2019
-Project Submission for Red Dragon Course - Deep Learning Jumpstart Workshop
+Project Submission for Red Dragon AI Course - Deep Learning Jumpstart Workshop
 
 Medical Transcription Text Classification with Glove + LSTM / BERT
 
